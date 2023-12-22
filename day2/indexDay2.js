@@ -1,0 +1,1 @@
+import { INPUT } from "./inputDay3.js";
